@@ -1,2 +1,2 @@
 # golang-coursera-stuff
-basically things from the coursera course
+This code parts were used to get the Golang speciallization from the Coursera
